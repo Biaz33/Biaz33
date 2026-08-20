@@ -23,4 +23,5 @@ O projeto permitiu aplicar análise de necessidades, documentação de solução
 ## Links
 
 - [Demonstração online](https://bemtrabalho-a34xxu.manus.space)
-- [Repositório pessoal do projeto](https://github.com/Biaz33/Bem-no-Trabalho)
+- [Repositório acadêmico com código-fonte](https://github.com/ICEI-PUC-Minas-PMV-SI/bemnotrabalho)
+- [Documentação no perfil pessoal](https://github.com/Biaz33/Bem-no-Trabalho)

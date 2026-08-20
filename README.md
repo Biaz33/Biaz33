@@ -10,11 +10,14 @@ Atualmente, reúno conhecimentos em **Java, Python, MySQL, SQL Server, análise 
 
 Os projetos estão reunidos no [catálogo de projetos acadêmicos](projetos-academicos/), com contexto, objetivos, tecnologias, participação e links para demonstrações ou repositórios.
 
-### Bem no Trabalho — Hackathon ODS PUC Minas 2025
+### Projetos confirmados
 
-Projeto desenvolvido no contexto do Hackathon ODS PUC Minas, voltado aos Objetivos de Desenvolvimento Sustentável **ODS 5 — Igualdade de Gênero** e **ODS 8 — Trabalho Decente e Crescimento Econômico**. Participei da concepção e documentação do aplicativo móvel, com foco em experiência do usuário, integração de câmera e automação de processos internos.
+- **Bem no Trabalho** — Hackathon ODS PUC Minas 2025, com foco em acolhimento, apoio e reinserção profissional de mulheres.
+- **JPMC English** — Trabalho de Conclusão de Curso sobre gestão estratégica para uma escola de inglês.
+- **Infraestrutura para empresa de manufatura** — Projeto de redes, simulação e modelagem de infraestrutura.
+- **Sistema de aluguel de quadras esportivas** — Projeto em grupo com contribuição no cadastro e no perfil do usuário.
 
-[Ver detalhes](projetos-academicos/bem-no-trabalho.md) · [Ver demonstração online](https://bemtrabalho-a34xxu.manus.space) · [Ver repositório](https://github.com/Biaz33/Bem-no-Trabalho)
+[Ver catálogo completo e links dos repositórios](projetos-academicos/) · [Ver detalhes do Bem no Trabalho](projetos-academicos/bem-no-trabalho.md) · [Ver demonstração online](https://bemtrabalho-a34xxu.manus.space) · [Ver código acadêmico](https://github.com/ICEI-PUC-Minas-PMV-SI/bemnotrabalho)
 
 
 ## Tecnologias e conhecimentos
