@@ -16,11 +16,6 @@ Projeto desenvolvido no contexto do Hackathon ODS PUC Minas, voltado aos Objetiv
 
 [Ver detalhes](projetos-academicos/bem-no-trabalho.md) · [Ver demonstração online](https://bemtrabalho-a34xxu.manus.space) · [Ver repositório](https://github.com/Biaz33/Bem-no-Trabalho)
 
-### Aplicação Web para a artista Ana Valin
-
-Projeto acadêmico da disciplina **Projeto — Aplicações Web**, desenvolvido como vitrine digital para a artista Ana Valin, reunindo biografia, contatos, agenda de shows, músicas, clipes e área administrativa.
-
-[Ver detalhes](projetos-academicos/aplicacao-web-ana-valin.md) · [Ver repositório acadêmico](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t2-g6-artista) · [Ler documentação](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t2-g6-artista/tree/main/docs)
 
 ## Tecnologias e conhecimentos
 
